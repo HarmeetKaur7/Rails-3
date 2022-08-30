@@ -13,3 +13,8 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+/config/master.key
+/config/initializers/secret_token.rb
+/public/assets
+.byebug_history
